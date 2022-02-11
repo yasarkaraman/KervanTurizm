@@ -1,0 +1,47 @@
+﻿@model BiletGuzergah
+
+<header class="mt-5">
+    @await Html.PartialAsync("_Photo")
+</header>
+
+
+<br />
+<br />
+
+<div class="container shadow" style="margin-bottom: 100px; padding: 10px 14px;">
+    <div class="form-group" style="display: inline;">
+        <form action="/home/index" class="form-inline">
+            <select name="nereden" class="form-select form-select-lg mb-3" asp-items="@ViewBag.Sehirler" style="width: 505px; height:53px;">
+                <option selected disabled>Kalkış Noktası</option>
+            </select>
+            <i class="fas fa-long-arrow-alt-right" style="padding: 0px 20px; font-size: 22px;"></i>
+            <select name="nereye" class="form-select form-select-lg mb-3" asp-items="@ViewBag.Sehirler" style="width: 505px; height:53px;">
+                <option selected disabled>Varış noktası</option>
+            </select>
+            <button type="submit" class="btn btn-danger btn-lg btn-block">Seferleri Göster</button>
+        </form>
+    </div>
+
+
+    @if (Model.Guzergahs != null)
+    {
+        <div class="row">
+            @foreach (var item in @Model.Guzergahs)
+            {
+
+                <div class="col-md-6">
+                    @await Html.PartialAsync("_yolculugum", item)
+
+                </div>}
+
+        </div> }
+
+    else
+    {
+
+        <div class="alert alert danger" role="alert">
+            Yolculuk bulunmamaktadır.
+        </div>
+
+    }
+</div>

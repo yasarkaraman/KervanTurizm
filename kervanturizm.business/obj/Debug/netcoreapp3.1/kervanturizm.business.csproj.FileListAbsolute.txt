@@ -1,0 +1,14 @@
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\obj\Debug\netcoreapp3.1\kervanturizm.business.csproj.AssemblyReference.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\obj\Debug\netcoreapp3.1\kervanturizm.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\obj\Debug\netcoreapp3.1\kervanturizm.business.AssemblyInfoInputs.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\obj\Debug\netcoreapp3.1\kervanturizm.business.AssemblyInfo.cs
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\obj\Debug\netcoreapp3.1\kervanturizm.business.csproj.CoreCompileInputs.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\bin\Debug\netcoreapp3.1\kervanturizm.business.deps.json
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\bin\Debug\netcoreapp3.1\kervanturizm.business.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\bin\Debug\netcoreapp3.1\kervanturizm.business.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\bin\Debug\netcoreapp3.1\kervanturizm.data.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\bin\Debug\netcoreapp3.1\kervanturizm.entity.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\bin\Debug\netcoreapp3.1\kervanturizm.data.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\bin\Debug\netcoreapp3.1\kervanturizm.entity.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\obj\Debug\netcoreapp3.1\kervanturizm.business.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.business\obj\Debug\netcoreapp3.1\kervanturizm.business.pdb

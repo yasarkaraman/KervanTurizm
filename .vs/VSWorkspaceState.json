@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\emirbilet.data",
+    "\\emirbilet.data\\Concrete",
+    "\\emirbilet.entity\\bin",
+    "\\emirbilet.entity\\obj",
+    "\\EmirBilet.webui",
+    "\\EmirBilet.webui\\Controllers",
+    "\\EmirBilet.webui\\Models"
+  ],
+  "SelectedNode": "\\emirbilet.data\\Concrete\\EfCoreGenericRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

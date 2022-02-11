@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+	</PropertyGroup>
+
+	<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+		<Exec Command="dotnet restore" />
+	</Target>
+
+	<ItemGroup>
+	  <Reference Include="kervanturizm.data">
+	    <HintPath>..\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.data.dll</HintPath>
+	  </Reference>
+	  <Reference Include="kervanturizm.entity">
+	    <HintPath>..\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>

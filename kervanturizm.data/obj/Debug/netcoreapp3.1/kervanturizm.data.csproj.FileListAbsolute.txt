@@ -1,0 +1,15 @@
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.AssemblyInfoInputs.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.AssemblyInfo.cs
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.csproj.CoreCompileInputs.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.data.deps.json
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.data.runtimeconfig.json
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.data.runtimeconfig.dev.json
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.data.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.data.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.entity.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\bin\Debug\netcoreapp3.1\kervanturizm.entity.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.csproj.AssemblyReference.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.data\obj\Debug\netcoreapp3.1\kervanturizm.data.genruntimeconfig.cache

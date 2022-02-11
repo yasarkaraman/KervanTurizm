@@ -1,0 +1,10 @@
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\bin\Debug\netcoreapp3.1\kervanturizm.entity.deps.json
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\bin\Debug\netcoreapp3.1\kervanturizm.entity.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\bin\Debug\netcoreapp3.1\kervanturizm.entity.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.AssemblyInfoInputs.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.AssemblyInfo.cs
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.csproj.CoreCompileInputs.cache
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.dll
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.pdb
+C:\Users\Yasar\OneDrive\Masaüstü\KervanTurizm\Örnek proje\kervanturizm.entity\obj\Debug\netcoreapp3.1\kervanturizm.entity.csproj.AssemblyReference.cache

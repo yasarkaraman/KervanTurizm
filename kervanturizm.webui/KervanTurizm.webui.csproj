@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.3">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+		<PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Areas\Admin\Data\" />
+		<Folder Include="Areas\Admin\Models\" />
+		<Folder Include="Areas\Kullanici\" />
+		<Folder Include="wwwroot\img\" />
+	  
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\kervanturizm.business\kervanturizm.business.csproj" />
+	  <ProjectReference Include="..\kervanturizm.data\kervanturizm.data.csproj" />
+	  <ProjectReference Include="..\kervanturizm.entity\kervanturizm.entity.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Update="biletDb">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+	<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+		<Exec Command="dotnet restore" />
+	</Target>
+
+</Project>

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kervanturizm.business/1.0.0": {
+        "dependencies": {
+          "kervanturizm.data": "1.0.0.0",
+          "kervanturizm.entity": "1.0.0.0"
+        },
+        "runtime": {
+          "kervanturizm.business.dll": {}
+        }
+      },
+      "kervanturizm.data/1.0.0.0": {
+        "runtime": {
+          "kervanturizm.data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "kervanturizm.entity/1.0.0.0": {
+        "runtime": {
+          "kervanturizm.entity.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kervanturizm.business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kervanturizm.data/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kervanturizm.entity/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
